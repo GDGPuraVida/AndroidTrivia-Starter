@@ -1,3 +1,4 @@
 .idea/
 AndroidTrivia-Starter.iml
 local.properties
+.gradle/
